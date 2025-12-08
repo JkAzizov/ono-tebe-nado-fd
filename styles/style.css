@@ -307,7 +307,7 @@
 .footer__address {
     display: flex;
     flex-direction: column;
-    font-style: normal;  
+    font-style: normal;
 }
 
 .address__link {
