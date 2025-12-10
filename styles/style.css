@@ -301,6 +301,7 @@
     background-color: #fff;
     font-family: "Raleway", Arial, sans-serif;
     margin-top: 181px;
+    min-height: 180px;
 }
 
 .footer__address {
